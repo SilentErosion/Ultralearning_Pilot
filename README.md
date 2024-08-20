@@ -6,7 +6,7 @@ An intensive study project inspired by Scott H. Young. About 2 Week-long project
 1. Make the prinicples of ultralearning and some other principles I came up with into habits.
    1. ~~Directness(& Drill/Deliberate Practice)~~ Not sure if I can apply this to this project for now.
    1. Objective Assessment and Feedback
-      - Always come up with problems or assignments that I can't cheat my understanding.
+      - Always come up with specific problems or assignments that I can't cheat my understanding.
       - Need to be able to tell if I failed or succeeded with explicit(quantative if possible) standards.
       - Try again until I can meet the standards.
       - Always be specific in terms of memorizing and recalling.
@@ -18,7 +18,7 @@ An intensive study project inspired by Scott H. Young. About 2 Week-long project
       - Focus on actual learning when studying instead of planning what to learn next and researching for learning materials.
       - Always make specific plans and tasks so that my brain can know what to do exactly.
       - Don't repeat asking the same questions. If found, try different questions instead.
-   ~~1. Problem Solving Process:~~ This is not really applicable for this project.
+   1. ~~Problem Solving Process:~~ This is not really applicable for this project.
       
 # Core Mnemonics Concepts
 1. Mental Image
