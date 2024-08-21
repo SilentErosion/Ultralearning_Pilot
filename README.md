@@ -38,6 +38,7 @@ An intensive study project inspired by Scott H. Young. About 2 Week-long project
    
 # General Goals and Methodology (Why, What, and How in Ultralearning)
 *Concrete goals, assessing criteria, and an archiving template will be included in each according directory.*
+
 ~~Basically, I want to find out if trying to memorize books but in an effective and efficient way is enough to actually learn to use the knowledge in the books. I have three books about Java: <자바 완전 정복 (이지스 퍼블리싱)>, <성낙현의 JSP 자바 웹 프로그래밍 (골든래빗)>, <자바 웹 프로그래밍 Nest Step (로드북)>. To be fair, I have some basic knowledge about OOP and web so I don't think it would be hard for me to see the big picture while focusing on memorizing. Efficiency will be measured by the number of mental images that I use to memorize, and effectiveness will be measured by solving problmes and recalling the code in the books correctly with my own retrieval/thinking strategies.~~[^1]
 
 1. 자바 완전 정복 (ETC: 3 days)
