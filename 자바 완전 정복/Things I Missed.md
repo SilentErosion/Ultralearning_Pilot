@@ -14,3 +14,9 @@ However, the argument doesn't have to be an array object. `sum(1, 2, 3)` for `su
 ### `this()` Constructor
 To prevent the repitition of the same code in constructors, `this()` can be used in the first line in another constructor. (same for `super()`)
 
+## Ch9. Modifiers
+### Public/Protected/Default/Private
+It is sth like same package + α(any class/descendants/no/no in other packages), except for private.
+### Static
+I can initialize static values with `static {}`.
+
