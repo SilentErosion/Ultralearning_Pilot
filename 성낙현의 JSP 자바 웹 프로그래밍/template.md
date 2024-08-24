@@ -1,8 +1,5 @@
-<!-- 
-For syntax, I'll organize it in a way that accords with actual need in a text file. 
-For the others, I will find the root problem and solving ideas of each concept and try to formalize the ideas into the concepts. 
-I'll try to explain before reading if I have already heard about it. If all I explained is contained in the way I imagined, I will skip that topic. 
-If not, I will make a thought process that can naturally induce the information and memorize the process with mnemonic techniques.
+<!--
+In the first reading, I will go from the start to the end summarizing the language-specific features, and generalizing the overall model and concepts regarding the server, which I will memorize using mnemonics. Next, I will make review problems using the examples in the book to evaluate my understanding. If needed, I will read again some particular parts of the book, not the entire book. Then I will solve the review problems to check my mental model.
 -->
 
 # Concrete Goals and Evaluation Criteria
@@ -15,10 +12,10 @@ If not, I will make a thought process that can naturally induce the information 
 - [ ] 2. 
 - [ ] 3. 
 
+<!-- 
 # Archiving Template
-<!-- The main points are not to cheat myself that I understood when I actually didn't, and review my thought process. So try to include at least these: -->
+The main points are not to cheat myself that I understood when I actually didn't, and review my thought process. So try to include at least these:
 ### 1. The approaches/strategies I used and why
-
 ### 2. The proof that I reached the goal
-
 ### 3. If not, what I did to make amends + re-evaluation till I do.
+-->
