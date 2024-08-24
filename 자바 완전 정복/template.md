@@ -11,9 +11,9 @@ If not, I will make a thought process that can naturally induce the information 
 2. Make it specific, measurable, provable.
 3. Make it last.
 -->
-### 1. 
-### 2. 
-### 3. 
+- [ ] 1. 
+- [ ] 2. 
+- [ ] 3. 
 
 # Archiving Template
 <!-- The main points are not to cheat myself that I understood when I actually didn't, and review my thought process. So try to include at least these: -->
