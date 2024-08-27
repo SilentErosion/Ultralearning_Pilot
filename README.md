@@ -51,7 +51,7 @@ As I am running out of time, I will only go through inner class, exception, and 
 3. 성낙현의 JSP 자바 웹 프로그래밍 (ETC: 5 days)
 	- Why: I wanted to see the source codes of the basic functionalities for the back-end with detailed explanations. The book contained example codes of web applications like online forum, IM, and email sending program. But I read that JSP are not frequently used anymore. So I will focus on making abstractions of functionalities and the basic concepts beneath them.
 	- What: Syntax, models of the server, sample codes
-	- How: In the first reading, I will go from the start to the end summarizing the language-specific features, and generalizing the overall model and concepts regarding the server, which I will memorize using mnemonics. Next, I will make review problems using the examples in the book to evaluate my understanding. If needed, I will read again some particular parts of the book, not the entire book. Then I will solve the review problems to check my mental model.
+	- How: ~~In the first reading,~~ I will go from the start to the end summarizing the language-specific features, and generalizing the overall model and concepts regarding the server, which I will memorize using mnemonics. ~~Next, I will make review problems using the examples in the book to evaluate my understanding. If needed, I will read again some particular parts of the book, not the entire book. Then I will solve the review problems to check my mental model.~~ [^3]
 
 4. 자바 웹 프로그래밍 Next Step (ETC: 7 days)
 	- Why: I wanted to synchronize my coding process to the actual programmer.
@@ -60,3 +60,4 @@ As I am running out of time, I will only go through inner class, exception, and 
 
 [^1]: Unlike studying math or science, I already knew what I exactly want. There's no need to cram information that won't probably help in the future. (2024-08-21)
 [^2]: Most of frequently used syntax is naturally memorized. (2024-08-23)
+[^3]: I don't think the details of JSP and Servlet would be necessary for now. Actually coding will help me understand better and test my understanding. However, considering that I will probably not use JSP in the future, it could be a total waste. And all the things I have missed, I would probably be forced to learn again if I have to code in different languages. So basically, it doesn't seem like it will help to achieve the original goal, which is an essential part of the ultralearning project.
