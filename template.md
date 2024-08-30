@@ -1,0 +1,24 @@
+<!--
+Why: I wanted to know what I have to consider when I code and how to develop those ideas into code.
+What: Evaluation critieria for the good code, common practices
+How: As the author encourages doing before learning, I am going to do that. That means no reading through, just from the beginning to the end not going further before trying and understanding.
+Also, I'm going to abstract and image the 'what' above to remember and use in the future.
+-->
+
+# Concrete Goals and Evaluation Criteria
+<!-- 
+1. Make it fun.
+2. Make it specific, measurable, provable.
+3. Make it last.
+-->
+- [ ] 1. 
+- [ ] 2. 
+- [ ] 3. 
+
+<!-- 
+# Archiving Template
+The main points are not to cheat myself that I understood when I actually didn't, and review my thought process. So try to include at least these:
+### 1. The approaches/strategies I used and why
+### 2. The proof that I reached the goal
+### 3. If not, what I did to make amends + re-evaluation till I do.
+-->
