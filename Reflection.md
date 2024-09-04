@@ -18,13 +18,13 @@ I think mnemonic skills have a lot of potential if used in a proper way. I want 
       I have a personal curiosity about this: People say motivation and not being burned out is important. In physical cases, it's true. I can't study more if I'm too sleepy or dazed for some reason. However, in mental cases I don't think so. If one is having too much trouble with mental skills, it's either it's just that the person is overwhelmed and not thinking properly. We are all constantly thinking but we don't get tired from it. It seems to me that most fatigue is coming from bad posture and eye strain. I want to see what happens to me if I study for all day for a long time, but only with proper physical rests. Learning is what I like to do over other things anyway. I just need to find a way not to get distracted.
       - *Adjust the learning activity what I like to do, instead of pushing myself to the most efficient/effective way. Try to use any psychological concepts(e.g. neuroticism, self-esteem, personality) that might help to reward myself.*
       - *Use only 8-10 hours a day for studying. Fully rest on Sundays.*
-   1. *Efficient Time Use*
+   1. *Efficient Time Use*  
       As for the time used on planning, I think the problem is the absence of the system as always. And as for repeating questions, if the questions are repeated, it is either I didn't remember the answer well enough or I didn't have it at all. The solution is pretty clear: answer the question even if that's not perfect then memorize the answer.
       - *Focus on actual learning when studying instead of planning what to learn next and researching for learning materials.*
       - *Always make specific plans and tasks so that my brain can know what to do exactly.*
       - *Don't repeat asking the same questions. If found, try different questions instead.*
-   1. *~~Problem Solving Process:~~ This is not really applicable for this project.*
-      It's important to note that reading and recalling are totally different process. We need to come up with connections when recalling whereas they are given usually in a form of temporal and spaitial proximity, which are not really useful for recalling. And I'm sure I can find some effective patterns for retrievals then read according to those.
+   1. *~~Problem Solving Process:~~ This is not really applicable for this project.*  
+      It's important to note that reading and recalling are totally different process. We need to come up with connections when recalling whereas when reading they are given usually in a form of temporal and spaitial proximity, which are not really useful for recalling. And I'm sure I can find some effective patterns for retrievals then read according to those.
 
 # How Close I Got to The Original Goals
 1. 자바 완전 정복  
@@ -45,4 +45,4 @@ Also improving the sense is the important along with knowledge. For exmaple, cod
 5. I must admit that I'm not consistent or persistent now. Probably because I don't have clear goals in my mind, only written. And doubtful nature and slow rate of change as well.
 
 # To Sum Up (Improvements to Be Made)
-This is TODO in the design process for long term plan, not necessarily being intensive learning but just general plans about learning and life.
+This is TODO in the design process for long term plan, not necessarily regarding intensive learning but general plans about learning and life.
