@@ -27,13 +27,13 @@ I think mnemonic skills have a lot of potential if used in a proper way. I want 
       It's important to note that reading and recalling are totally different process. We need to come up with connections when recalling whereas they are given usually in a form of temporal and spaitial proximity, which are not really useful for recalling. And I'm sure I can find some effective patterns for retrievals then read according to those.
 
 # How Close I Got to The Original Goals
-1. 자바 완전 정복
+1. 자바 완전 정복  
 I've reached the level that I can understand the code written in Java with some references. So I think that's quite enough for now considering that I'm not sure if I am going to use Java as a main language.
 
-3. 성낙현의 JSP 자바 웹 프로그래밍
+3. 성낙현의 JSP 자바 웹 프로그래밍  
 I've learned the basic structure of online forum in MVC pattern. The most important part is to divide functions into modules that each module is as independent of each other as possible to assure maintainability and scalability. Plus, I have researched some functionalities using cookies like login/logout, popup control. I don't think I know it well enough to code right now but at least now I know where to start and what to look for if there's certain problem.
 
-3. 자바 웹 프로그래밍 Next Step
+3. 자바 웹 프로그래밍 Next Step  
 I've only finished part of chapter 2. It seems to help a lot to know what kind of questions and objectives are essential to code better. However, it also seems that it requires a lot of practices to learn. I'll keep learning it little by little throughout this year.  
 Also improving the sense is the important along with knowledge. For exmaple, code seems messy and repetitive. The thing is that there are things that I need to recognize or feel, not to think.
 
